@@ -2,7 +2,7 @@
    <img alt="logo" height=256 src="./assets/logo.png" />
 </p>
 <h1 align="center">Lama Cleaner</h1>
-<h1 align="center">[Use without Installation on Hugging Face](https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama)</h1>
+<h1 align="center"> [Use without Installation on Hugging Face](https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama) </h1>
 <p align="center">A free and open-source inpainting tool powered by SOTA AI model.</p>
 
 <p align="center">

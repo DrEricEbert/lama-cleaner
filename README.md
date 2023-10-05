@@ -54,6 +54,9 @@ Lama Cleaner make it easy to use SOTA AI model in just two commands:
 # In order to use the GPU, install cuda version of pytorch first.
 # pip install torch==1.13.1+cu117 torchvision==0.14.1 --extra-index-url https://download.pytorch.org/whl/cu117
 pip install lama-cleaner
+#to fix the Error use:
+pip install Werkzeug==2.2.2
+#to start use and open web browser with http://localhost:8080
 lama-cleaner --model=lama --device=cpu --port=8080
 ```
 
